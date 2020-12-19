@@ -11,7 +11,7 @@ import EcoIcon from '@material-ui/icons/Eco';
 const useStyles = makeStyles(() => ({
   root: {
     background: '#1a237e',
-    height: '100vh'
+    minHeight: '100vh'
   },
   heading: {
     color: '#e8eaf6'
